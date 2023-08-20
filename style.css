@@ -1,0 +1,20 @@
+   body {
+       background-color: #808080;
+       margin-top: 10px;
+       margin-left: 10px;
+   }
+
+   h1 {
+       column-width: 10px;
+       color: white;
+       width: min-content;
+       height: 50px;
+   }
+
+   div {
+       background-color: #fea500;
+       width: 100px;
+       height: 100px;
+       margin-bottom: 5px;
+       margin-left: 10px;
+   }
